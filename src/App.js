@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Header from './components/header/index'
+import api from './service/api';
 
 export default class App extends Component {
 
